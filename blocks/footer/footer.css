@@ -2,5 +2,11 @@
   display: flex;
   justify-content: space-between;
   padding: 0 48px 24px;
-  align-items: centerя пока е;
+  
+}
+@media screen and (max-width: 700px) {
+  .footer{
+    flex-direction: column;
+    padding: 0 16px 24px;
+  }
 }
