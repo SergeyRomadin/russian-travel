@@ -6,3 +6,7 @@
   text-decoration: none;
   color: #fff;
 }
+.footer__menu-link:hover{
+  opacity: 0.8;
+}
+
