@@ -2,3 +2,18 @@
   margin: 0 auto;
   padding: 12px 148px 0;
 }
+@media screen and (max-width: 1024px) {
+  .places{
+    padding: 15px 48px 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .places{
+    padding: 14px 24px 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .places{
+    padding: 14px 0 0;
+  }
+}

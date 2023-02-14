@@ -5,3 +5,10 @@
   color: #AAAAAA;
   align-self: end;
 }
+
+
+@media screen and (max-width: 320px) {
+  .places__item-website{
+    padding: 0 0 0 16px;
+  }
+}

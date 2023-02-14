@@ -4,3 +4,19 @@
   width: 100%;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__img{
+    padding: 56px 48px 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .lead__img{
+    padding: 56px 0 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .lead__img{
+    padding: 40px 0 0;
+  }
+}
