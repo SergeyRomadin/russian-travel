@@ -1,6 +1,9 @@
 # Проект: Путешествие по России
 
-![Обложка проекта](./images/screanshot.jpg)
+<p align="center">
+<img src="./images/screanshot.jpg" alt="Обложка проекта">
+<!-- ![Обложка проекта](./images/screanshot.jpg) -->
+</p>
 
 ## Проектная работа Яндекс Практикум - Адаптивная верстка
 
