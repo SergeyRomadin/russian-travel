@@ -5,6 +5,7 @@
   font-size: 18px;
   line-height: 22px;
   display: block;
+  padding-top: 12px;
 
 }
 .places__item-link:hover{
