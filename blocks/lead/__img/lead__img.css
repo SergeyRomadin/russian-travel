@@ -7,16 +7,22 @@
 
 @media screen and (max-width: 1024px) {
   .lead__img{
-    padding: 56px 48px 0;
+    padding-top: 56px;
+    padding-right: 48px;
+    padding-left: 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .lead__img{
-    padding: 56px 0 0;
+    padding-top: 56px;
+    padding-right: 0;
+    padding-left: 0;
   }
 }
 @media screen and (max-width: 768px) {
   .lead__img{
-    padding: 40px 0 0;
+    padding-top: 40px;
+    padding-right: 0;
+    padding-left: 0;
   }
 }

@@ -11,16 +11,16 @@
 
 @media screen and (max-width: 1024px) {
   .lead__img-caption{
-    padding: 8px 0 0 48px;
+    padding-left: 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .lead__img-caption{
-    padding: 8px 0 0 24px;
+    padding-left: 24px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .lead__img-caption{
-    padding: 8px 0 0 16px;
+    padding-left: 16px;
   }
 }
