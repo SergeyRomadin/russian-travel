@@ -1,4 +1,6 @@
-.cover__content{
+.cover__link{
+  color: #fff;
+  text-decoration: none;
   padding: calc(31.25% - 125px) 0;
   display: flex;
   flex-direction: column;
@@ -9,12 +11,12 @@
   width: 100%;
   background-color: rgba(42, 44, 47, .3);
 }
-.cover__content:hover{
+.cover__link:hover{
   background-color: rgba(42, 44, 47, .8);
 }
 
 @media screen and (max-width: 320px) {
-  .cover__content{
+  .cover__link{
 
     padding: calc(31.25% - 67px) 0;
 
