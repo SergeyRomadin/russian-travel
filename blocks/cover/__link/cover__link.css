@@ -15,6 +15,7 @@
 }
 .cover__link::after {
   content: "";
+  width: 100%;
   background: url(../../../images/cover__img.jpg);
   top: 0;
   left: 0;

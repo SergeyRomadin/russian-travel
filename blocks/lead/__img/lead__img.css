@@ -14,15 +14,12 @@
 }
 @media screen and (max-width: 768px) {
   .lead__img{
-    padding-top: 56px;
     padding-right: 0;
     padding-left: 0;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .lead__img{
     padding-top: 40px;
-    padding-right: 0;
-    padding-left: 0;
   }
 }
